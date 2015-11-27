@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sapui.xekhachdemo1.activity.DanhSachActivity"
+    tools:showIn="@layout/activity_danh_sach">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingLeft="5dp"
+        android:background="@color/primary_light"
+        android:stretchColumns="*">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                android:text="Hãng xe"
+                android:textColor="@color/colorPrimary"
+                android:textSize="12dp" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:text="Thời gian chạy"
+                android:textColor="@color/colorPrimary"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="right"
+                android:text="Giá vé"
+                android:textColor="@color/colorPrimary"
+                android:textSize="12dp" />
+        </TableRow>
+    </TableLayout>
+
+    <ListView
+        android:id="@+id/lvNhaXe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/primary_light"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="5dp" />
+
+    <TextView
+        android:id="@+id/txtCapNhatDuLieu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="2dp"
+        android:text="Dữ liệu đang được cập nhật..."
+        android:visibility="invisible" />
+</LinearLayout>

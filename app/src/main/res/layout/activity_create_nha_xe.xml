@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.tranquoctin.timxekhach.activity.CreateNhaXeActivity">
+
+    <EditText
+        android:id="@+id/etTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv1"
+        android:backgroundTint="@color/primary_light"
+        android:hint="Tên hãng xe "
+        android:padding="15dp"
+        >
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/etTuyen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etTen"
+        android:backgroundTint="@color/primary_light"
+        android:hint="Tuyến hoạt đông "
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/etThoiGian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etTuyen"
+        android:backgroundTint="@color/primary_light"
+        android:ems="10"
+        android:hint="Thời gian đi "
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/etSDT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etThoiGian"
+        android:backgroundTint="@color/primary_light"
+        android:hint="Số điện thoại "
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/etGiaVe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etSDT"
+        android:backgroundTint="@color/primary_light"
+        android:hint="Giá vé "
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/etKhac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etGiaVe"
+        android:backgroundTint="@color/primary_light"
+        android:hint="Thông tin khác ... "
+        android:padding="15dp" />
+
+</RelativeLayout>

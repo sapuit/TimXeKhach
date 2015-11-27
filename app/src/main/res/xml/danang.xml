@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danang>
+	<binhdinh>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>01:00 - 08:20</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Văn phòng Quy Nhơn</diadiemden>
+			<giave>220.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>14:20 - 21:40</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Văn phòng Quy Nhơn</diadiemden>
+			<giave>220.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</binhdinh>
+
+	<thuathienhue>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>01:05 - 03:05</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Văn phòng Huế</diadiemden>
+			<giave>150.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>HAV</ten>
+			<thoigian>06:00 - 08:30</thoigian>
+			<diadiemdi>Vp Đà Nẵng</diadiemdi>
+			<diadiemden>Vp Huế</diadiemden>
+			<giave>180.000</giave>
+			<dienthoai1>05116505050</dienthoai1>
+			<dienthoai2>0961075075</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Phương Trang</ten>
+			<thoigian>08:45 - 10:45</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Phía Nam Huế</diadiemden>
+			<giave>75.000</giave>
+			<dienthoai1>(0511) 3786 786</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Hiếu Hoa</ten>
+			<thoigian>19:45 - 22:15</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Phía Nam Huế</diadiemden>
+			<giave>100.000</giave>
+			<dienthoai1>0905888547</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</thuathienhue>
+
+	<quangbinh>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>01:05 - 07:10</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Văn phòng Quảng Bình</diadiemden>
+			<giave>240.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Trung Tín</ten>
+			<thoigian>05:20 - 13:20</thoigian>
+			<diadiemdi>Bến Xe Khách Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Ba Đồn</diadiemden>
+			<giave>150.000</giave>
+			<dienthoai1>0935 022 681</dienthoai1>
+			<dienthoai2>0905 022 681</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Phương Trang</ten>
+			<thoigian>11:00 - 16:30</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến Xe Đồng Hới</diadiemden>
+			<giave>185.000</giave>
+			<dienthoai1>(0511) 3786 786</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</quangbinh>
+
+	<thanhhoa>
+		<nhaxe>
+			<ten>Tuấn Thành</ten>
+			<thoigian>07:30 - 01:50</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến Xe Ngọc Lặc</diadiemden>
+			<giave>300.000</giave>
+			<dienthoai1>0912 035 459</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Phương Trang</ten>
+			<thoigian>11:00 - 01:15</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe phía Nam Thanh Hóa</diadiemden>
+			<giave>250.000</giave>
+			<dienthoai1>(0511) 3786 786</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</thanhhoa>
+
+	<hanoi>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>02:50 - 19:58</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Lương Yên</diadiemden>
+			<giave>450.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Phương Trang</ten>
+			<thoigian>11:00 - 05:15</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Vp Hà Nội</diadiemden>
+			<giave>350.000</giave>
+			<dienthoai1>(0511) 3786 786</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Danatranco</ten>
+			<thoigian>12:45 - 23:15</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Giáp Bát</diadiemden>
+			<giave>365.000</giave>
+			<dienthoai1>05113 663616</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</hanoi>
+
+	<khanhhoa>
+		<nhaxe>
+			<ten>An Phú Travel</ten>
+			<thoigian>16:30 - 04:30</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Vp Nha Trang</diadiemden>
+			<giave>250.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Cúc Tùng</ten>
+			<thoigian>19:00 - 06:00</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến Xe Phía Nam Nha Trang</diadiemden>
+			<giave>230.000</giave>
+			<dienthoai1>0905 777 679</dienthoai1>
+			<dienthoai2>0905 848 612</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Hạnh Cafe</ten>
+			<thoigian>16:30 - 03:30</thoigian>
+			<diadiemdi>Đường 3/2  -  Tp Đà Nẵng</diadiemdi>
+			<diadiemden>Tp Nha Trang</diadiemden>
+			<giave>270.000</giave>
+			<dienthoai1>05113. 525 052</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</khanhhoa>
+
+	<nhatrang>
+		<nhaxe>
+			<ten>An Phú Travel</ten>
+			<thoigian>16:30 - 04:30</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Vp Nha Trang</diadiemden>
+			<giave>250.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Cúc Tùng</ten>
+			<thoigian>19:00 - 06:00</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến Xe Phía Nam Nha Trang</diadiemden>
+			<giave>230.000</giave>
+			<dienthoai1>0905 777 679</dienthoai1>
+			<dienthoai2>0905 848 612</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Hạnh Cafe</ten>
+			<thoigian>16:30 - 03:30</thoigian>
+			<diadiemdi>Đường 3/2  -  Tp Đà Nẵng</diadiemdi>
+			<diadiemden>Tp Nha Trang</diadiemden>
+			<giave>270.000</giave>
+			<dienthoai1>05113. 525 052</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</nhatrang>
+
+	<gialai>
+		<nhaxe>
+			<ten>Diên Hồng</ten>
+			<thoigian>06:30 - 14:30</thoigian>
+			<diadiemdi>Bến Xe Khách Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Đức Long</diadiemden>
+			<giave>170.000</giave>
+			<dienthoai1>05112 465 280</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Thuận Tiến</ten>
+			<thoigian>19:30 - 02:30</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Đức Long</diadiemden>
+			<giave>200.000</giave>
+			<dienthoai1>0593 744 779</dienthoai1>
+			<dienthoai2>0968 744 779</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Hồng Hải</ten>
+			<thoigian>19:45 - 04:45</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Đức Long</diadiemden>
+			<giave>220.000</giave>
+			<dienthoai1></dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+	</gialai>
+
+	<daklak>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>13:50 - 23:40</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Buôn Ma Thuột</diadiemden>
+			<giave>330.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Thái Sơn</ten>
+			<thoigian>08:00 - 20:00</thoigian>
+			<diadiemdi>Bến Xe Khách Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Buôn Ma Thuột</diadiemden>
+			<giave>290.000</giave>
+			<dienthoai1>0913 436 247</dienthoai1>
+			<dienthoai2>0917 266 456</dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Mai Vy</ten>
+			<thoigian>16:00 - 07:00</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Phía Bắc Buôn Ma Thuột</diadiemden>
+			<giave>290.000</giave>
+			<dienthoai1>0500 3845 846</dienthoai1>
+			<dienthoai2>0500 3859 695</dienthoai2>
+		</nhaxe>
+	</daklak>
+
+	<hochiminh>
+		<nhaxe>
+			<ten>Hoàng Long</ten>
+			<thoigian>01:00 - 00:47</thoigian>
+			<diadiemdi>Văn phòng Đà Nẵng</diadiemdi>
+			<diadiemden>Vp Hồ Chí Minh</diadiemden>
+			<giave>490.000</giave>
+			<dienthoai1>1900 545541</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Quốc Tín</ten>
+			<thoigian>07:00 - 01:00</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Miền Đông</diadiemden>
+			<giave>300.000</giave>
+			<dienthoai1>0913 403 425</dienthoai1>
+			<dienthoai2></dienthoai2>
+		</nhaxe>
+		<nhaxe>
+			<ten>Ngân Nghĩa</ten>
+			<thoigian>09:00 - 03:00</thoigian>
+			<diadiemdi>Bến Xe Trung Tâm Đà Nẵng</diadiemdi>
+			<diadiemden>Bến xe Miền Đông</diadiemden>
+			<giave>350.000</giave>
+			<dienthoai1>0933 800 049</dienthoai1>
+			<dienthoai2>0905 063 061</dienthoai2>
+		</nhaxe>
+	</hochiminh>
+		
+</danang>

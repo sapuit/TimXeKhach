@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context="com.example.tranquoctin.timxekhach.activity.ResponseActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:text="Chọn thông tin chưa chính xác" />
+
+        <CheckBox
+            android:id="@+id/cbTenNhaXe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv1"
+            android:text="Tên hãng xe" />
+
+        <CheckBox
+            android:id="@+id/cbThoiGian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbTenNhaXe"
+            android:text="Thời gian di chuyển " />
+
+        <CheckBox
+            android:id="@+id/cbTuyen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbThoiGian"
+            android:text="Tuyến đường" />
+
+        <CheckBox
+            android:id="@+id/cbGiaVe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbTuyen"
+            android:text="Giá vé" />
+
+        <CheckBox
+            android:id="@+id/cbSDT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbGiaVe"
+            android:text="Số điện thoại" />
+
+
+        <EditText
+            android:id="@+id/etGhiChu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbSDT"
+            android:ems="15"
+            android:paddingTop="10dp"
+            android:hint="Ghi chú ..."
+            android:inputType="textMultiLine" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:clickable="true">
+
+        <Button
+            android:id="@+id/btnResponse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:onClick="clickResponse"
+            android:textColor="@color/primary_light"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold"
+            android:text="Gửi phản hồi" />
+    </LinearLayout>
+</LinearLayout>
